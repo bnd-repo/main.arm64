@@ -1,6 +1,10 @@
 {
-	"pycharm-ce": {
-		"url": "apps/pycharm-ce",
-		"version": "2024.1"
-	}
+    "pycharm-ce": {
+		      "url": "apps/pycharm-ce",
+		      "version": "2024.1"
+	   },
+    "code": {
+        "url": "apps/code",
+        "version": "stable-arm64-1714529316"
+    }
 }
